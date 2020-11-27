@@ -23,9 +23,10 @@ In C#, there are different types of variables (defined with different keywords),
 to declare a variable please follow the proper guide:
 
 type variableName = value;
-======================================================================================================
-Float VS Double VS Decimal
 
+----------------------------------------------------------------------------------------------------
+Float VS Double VS Decimal
+----------------------------------------------------------------------------------------------------
 
 Float - 32 bit (7 digits)
 Double - 64 bit (15-16 digits)
@@ -49,9 +50,10 @@ Double Types are probably the most normally used data type for real values, exce
 Float
 
 It is used mostly in graphic libraries because very high demands for processing powers, also used situations that can endure rounding errors
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-C# Identifiers
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+C# Identifiers
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 All C# variables must be identified with unique names.
 
 These unique names are called identifiers.
